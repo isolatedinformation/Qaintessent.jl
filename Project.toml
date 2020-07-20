@@ -4,8 +4,14 @@ authors = ["Christian B. Mendl <christian.b.mendl@gmail.com>"]
 version = "0.1.0"
 
 [deps]
+DiffRules = "b552c78f-8df3-52c6-915a-8e097449b14b"
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+Formatting = "59287772-0a20-5a39-b81b-1366585eb4c0"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+NaNMath = "77ba4419-2d1f-58cd-9bb1-8ffee604a2e3"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 TestSetExtensions = "98d24dd4-01ad-11ea-1b02-c9a08f80db04"
